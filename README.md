@@ -1,4 +1,4 @@
-# expletive
+# crexpletive
 
 &copy; 2015 Russ Olsen
 
@@ -12,6 +12,7 @@ And the name... Well typically by the time I come to having to edit a binary fil
 
 **This version of expletive is a port to the Crystal programming language.** Probably not a terriby idiomatic
 port though -- I'm working my way through learning Crystal by porting familiar Ruby code to it.
+See http://crystal-lang.org.
 
 Lessons learned from this project:
 
@@ -26,8 +27,6 @@ two or three times faster than the Ruby version.
 ## Installation
 
 Running `make` will create the two executables: `exdump` and `exundump`.
-
-TODO: Write usage here for library
 
 ## Usage
 
