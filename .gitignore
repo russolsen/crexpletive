@@ -1,0 +1,8 @@
+/.deps/
+/libs/
+/.crystal/
+/doc/
+exdump
+exundump
+
+
