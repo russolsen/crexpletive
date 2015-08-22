@@ -22,7 +22,7 @@ For example, it's called `getc` in Ruby and `read_char` in Crystal. Not a big de
 * The other major porting issue was centered around Crystal's Char type. Again, not a big deal.
 
 * Love the fact that I can get two standalone executables from Crystal. The Crystal version seems
-two or three times faster than the Ruby version.
+eight or ten times faster than the Ruby version.
 
 ## Installation
 

@@ -8,10 +8,10 @@ info:
 	echo $(CR_FILES)
 
 exdump: $(CR_FILES)
-	crystal build -o $@ src/exdump.cr
+	crystal build --release -o $@ src/exdump.cr
 
 exundump: $(CR_FILES)
-	crystal build -o $@ src/exundump.cr
+	crystal build --release -o $@ src/exundump.cr
 
 clean:
 	rm -f $(BINARIES)
